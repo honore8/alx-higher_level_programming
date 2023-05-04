@@ -13,9 +13,3 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 - How to make a POST request with JQuery Ajax
 - How to listen/bind to DOM events
 - How to listen/bind to user events
-
-
-## Resources:
-[oscarotero.com](https://oscarotero.com/jquery/) <br>
-[learn.jquery.com](https://learn.jquery.com/)
-
